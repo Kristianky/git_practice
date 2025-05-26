@@ -2,3 +2,4 @@ Hallo!!
 Kristian 
 Edited
 Edited 3th.
+Fixed criticall bug!!!!
